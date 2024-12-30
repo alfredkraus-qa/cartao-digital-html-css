@@ -2,7 +2,7 @@
 
 Criei este repositório com o objetivo de aprender e praticar o uso das ferramentas **HTML e CSS**. Estou focado em adquirir um conhecimento sólido sobre os conceitos básicos dessas tecnologias, pois pretendoc no futuro avançar meus estudos para automação front-end e desenvolvimento mobile.
 
-O principal intuito deste projeto é compreender os fundamentos de HTML e CSS. Toda a documentação, incluindo os arquivos utilizados e o resultado final do projeto, estará disponível aqui para consulta e acompanhamento.
+O principal intuito deste projeto é compreender os fundamentos de HTML e CSS. Toda a documentação, incluindo os arquivos utilizados (estão na branch master) e o resultado final do projeto, estará disponível aqui para consulta e acompanhamento.
 
 ## Ferramentas
 <div style="display: inline_block"><br>
