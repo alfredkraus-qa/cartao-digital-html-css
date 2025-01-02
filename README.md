@@ -14,4 +14,4 @@ O principal intuito deste projeto é compreender os fundamentos de HTML e CSS. T
 
 <img width="507" alt="Screenshot 2024-12-30 at 16 12 20" src="https://github.com/user-attachments/assets/c4f31606-4cdb-4a74-ae8b-316cfee2f2c2" />
 
-[PAGE - Cartão de visita](https://alfredkraus-qa.github.io/cartao_digital_html_css/)
+[PAGE - Cartão Digital](https://alfredkraus-qa.github.io/cartao_digital_html_css/)
